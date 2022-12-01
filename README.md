@@ -57,7 +57,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magician] <a name="about-project"></a>
+# 📖 [React Todo App] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
