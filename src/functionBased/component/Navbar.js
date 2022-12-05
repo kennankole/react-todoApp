@@ -1,14 +1,14 @@
 /* eslint-disable react/prefer-stateless-function */
 import React from 'react';
 
-class Header extends React.Component {
+class Navbar extends React.Component {
   render() {
     return (
       <div>
-        <h1>todos</h1>
+        <h2>This is the Navbar Component</h2>
       </div>
     );
   }
 }
 
-export default Header;
+export default Navbar;
